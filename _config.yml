@@ -78,7 +78,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  t-story          : "https://ljm1614.tistory.com"
+  tistory          : "https://ljm1614.tistory.com"
   velog            : "https://velog.io/@ever_since/posts"
 
 # Publication Category - The following the list of publication categories and their headings
@@ -221,7 +221,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  reports:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -261,10 +264,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _reports
+  - scope:
+      path: ""
+      type: reports
     values:
       layout: single
       author_profile: true
@@ -299,7 +311,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
