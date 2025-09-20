@@ -23,7 +23,7 @@ repository               : "https://github.com/JeongMinIsBest/JeongMinIsBest.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "JeongMin Lim"
   pronouns         : # example: "she/her"  
   bio              : "AI Engineer / AI Researcher | Researching NLP, Machine Translation, and LLMs"
