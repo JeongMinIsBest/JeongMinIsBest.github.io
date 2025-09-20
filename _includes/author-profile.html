@@ -164,7 +164,26 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      {% if author.tistory %}
+        <li>
+          <a href="{{ author.tistory }}" target="_blank">
+            <img src="{{ '/assets/icons/tistory.svg' | relative_url }}" 
+                 alt="Tistory" style="width:20px; height:20px; vertical-align:middle; margin-right:6px;">
+            Tistory
+          </a>
+        </li>
+      {% endif %}
+      {% if author.velog %}
+        <li>
+          <a href="{{ author.velog }}" target="_blank">
+            <img src="{{ '/assets/icons/velog.svg' | relative_url }}" 
+                 alt="Velog" style="width:20px; height:20px; vertical-align:middle; margin-right:6px;">
+            Velog
+          </a>
+        </li>
+      {% endif %}
+
     </ul>
   </div>
 </div>
