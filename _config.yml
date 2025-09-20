@@ -51,13 +51,6 @@ author:
   github           : "https://github.com/JeongMinIsBest"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
-  links            :
-    - label : "T-Story"
-    - icon  : "/assets/icons/tistory.svg"
-    - url   : "https://ljm1614.tistory.com"
-    - label : "Velog"
-    - icon  : "/assets/icons/velog.svg"
-    - url   : "https://velog.io/@ever_since/posts"
 
   # Social media
   artstation       : # Username
@@ -85,6 +78,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  t-story          : "https://ljm1614.tistory.com"
+  velog            : "https://velog.io/@ever_since/posts"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
