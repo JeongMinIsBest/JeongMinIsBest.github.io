@@ -30,7 +30,14 @@ author:
   location         : "Republic of Korea"
   employer         : "Jeonbuk National University"
   uri              : "https://jeongminisbest.github.io/"
-  email            : "ljm1614@naver.com" 
+  email            : "ljm1614@naver.com"
+  links            :
+    - label : "T-Story"
+    - icon  : "/assets/icons/tistory.svg"
+    - url   : "https://ljm1614.tistory.com/"
+    - label : "Velog"
+    - icon  : "/assets/icons/velog.svg"
+    - url   : "https://velog.io/@ever_since/posts"
 
   # Academic websites
   academia         : # URL
