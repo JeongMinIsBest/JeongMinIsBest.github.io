@@ -13,7 +13,7 @@ title                    : "JeongMin Lim"
 title_separator          : "|"
 name                     : &name "JeongMin Lim"
 description              : &description "JeongMin Lim | Academic Portfolio in AI, NLP, Machine Translation, and Large Language Models"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://jeongminisbest.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://jeongminisbest.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/JeongMinIsBest/JeongMinIsBest.github.io"
@@ -29,15 +29,8 @@ author:
   bio              : "AI Engineer / AI Researcher | Researching NLP, Machine Translation, and LLMs"
   location         : "Republic of Korea"
   employer         : "Jeonbuk National University"
-  uri              : "https://jeongminisbest.github.io/"
+  uri              : "https://jeongminisbest.github.io"
   email            : "ljm1614@naver.com"
-  links            :
-    - label : "T-Story"
-    - icon  : "/assets/icons/tistory.svg"
-    - url   : "https://ljm1614.tistory.com/"
-    - label : "Velog"
-    - icon  : "/assets/icons/velog.svg"
-    - url   : "https://velog.io/@ever_since/posts"
 
   # Academic websites
   academia         : # URL
@@ -57,7 +50,14 @@ author:
   dribbble         : # Username
   github           : "https://github.com/JeongMinIsBest"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  links            :
+    - label : "T-Story"
+    - icon  : "/assets/icons/tistory.svg"
+    - url   : "https://ljm1614.tistory.com"
+    - label : "Velog"
+    - icon  : "/assets/icons/velog.svg"
+    - url   : "https://velog.io/@ever_since/posts"
 
   # Social media
   artstation       : # Username
@@ -88,12 +88,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  projects:
+    title: 'Projects'
+  reports:
+    title: 'Reports'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
