@@ -10,7 +10,6 @@ author_profile: true
 - **LinkedIn** : [linkedin.com/in/ljm1614](https://www.linkedin.com/in/ljm1614/)  
 - **GitHub** : [github.com/JeongMinIsBest](https://github.com/JeongMinIsBest)  
 <br/>
-<br/>
 
 ✍🏻 Alternatively, you can also follow me on:
 
@@ -18,12 +17,12 @@ author_profile: true
 - **Velog** : [Developer Jenny Lim's Blog](https://velog.io/@ever_since)  
 - **Tistory** : [Developer Jenny Lim's Blog](https://ljm1614.tistory.com/)
 <br/>
-<br/>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="/images/contact_photo1.jpg" alt="Casual Photo 1" style="max-width: 300px; border-radius: 10px;">
   <img src="/images/contact_photo2.jpg" alt="Casual Photo 2" style="max-width: 300px; border-radius: 10px;">
   <img src="/images/contact_photo3.jpg" alt="Casual Photo 3" style="max-width: 300px; border-radius: 10px;">
+  <img src="/images/contact_photo4.jpg" alt="Casual Photo 3" style="max-width: 300px; border-radius: 10px;">
 </div>
 <br/>
 <br/>
