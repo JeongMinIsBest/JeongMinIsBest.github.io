@@ -17,6 +17,7 @@ author_profile: true
 - **Velog** : [Developer Jenny Lim's Blog](https://velog.io/@ever_since)  
 - **Tistory** : [Developer Jenny Lim's Blog](https://ljm1614.tistory.com/)
 <br/>
+<br/>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="/images/contact_photo1.jpg" alt="Casual Photo 1" style="max-width: 300px; border-radius: 10px;">
