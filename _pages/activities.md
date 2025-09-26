@@ -6,32 +6,32 @@ author_profile: true
 
 ## 🏆 Awards & Honors
 
-[2025]
-- **National Finalist & Awardee**, 2025 FIN:NECT Challenge | Fintech Center Korea, KakaoBank | 2025.08
-- **Excellence Award (2nd Prize)**, 2025 Jeonbuk State Public Data Utilization Start-up Competition | Jeonbuk State, South Korea | 2025.07
-- **Finalist (Onsite Round)**, LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients | LG AI Research | 2025.02
+### 2025
+- **National Finalist & Awardee**, 2025 FIN:NECT Challenge - Fintech Center Korea, KakaoBank (2025.08)
+- **Excellence Award (2nd Prize)**, 2025 Jeonbuk State Public Data Utilization Start-up Competition - Jeonbuk State, South Korea (2025.07)
+- **Finalist (Onsite Round)**, LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - LG AI Research (2025.02)
 <br/>
 
-[2024]
-- **Grand Prize(2nd Prize)**, 2024 Culture, Sports and Tourism Data Utilization Competition | Korea Culture & Tourism Institute | 2024.12
-- **Woori Bank President’s Award**, 2024 The 2nd Jeonbuk Youth Big Data Competition | Woori Bank | 2024.12
-- **COSS Chairman’s Award**, 2024 CO-SHOW | COSS(Convergence and Open Sharing System), Ministry of Education, NRF(National Research Foundation of Korea) | 2024.11
-- **1st Prize(Banking Division)**, The 3rd Shinhan Financial Group Big Data Hackathon | Big Data University, Shinhan Financial Group | 2024.11
-- **Excellence Award**, The 2nd Startup Idea Competition | JBNU Software University | 2024.11
-- **Encouragement Prize**, The 1st Honam SW Startup Idea Competition | Ministry of Science and ICT, IITP, JBNU Software University | 2024.09
+### 2024
+- **Grand Prize(2nd Prize)**, 2024 Culture, Sports and Tourism Data Utilization Competition - Korea Culture & Tourism Institute (2024.12)
+- **Woori Bank President’s Award**, 2024 The 2nd Jeonbuk Youth Big Data Competition - Woori Bank (2024.12)
+- **COSS Chairman’s Award**, 2024 CO-SHOW - COSS(Convergence and Open Sharing System), Ministry of Education, NRF(National Research Foundation of Korea) (2024.11)
+- **1st Prize(Banking Division)**, The 3rd Shinhan Financial Group Big Data Hackathon - Big Data University, Shinhan Financial Group (2024.11)
+- **Excellence Award**, The 2nd Startup Idea Competition - JBNU Software University (2024.11)
+- **Encouragement Prize**, The 1st Honam SW Startup Idea Competition - Ministry of Science and ICT, IITP, JBNU Software University (2024.09)
 <br/>
 
-[2023]
-- **Encouragement Prize**, 2023 English Essay Competition | Department of English Language and Literature, Jeonbuk National University | 2023.12
-- **Grand Prize**, 2023 Convergence Idea Contest | Department of English Language and Literature, Jeonbuk National University | 2023.12
-- **Top 11 Finalist**, 2023 KPMG Ideathon: From Ideas to Prototypes | KPMG Korea | 2023.02
+### 2023
+- **Encouragement Prize**, 2023 English Essay Competition - Department of English Language and Literature, Jeonbuk National University (2023.12)
+- **Grand Prize**, 2023 Convergence Idea Contest - Department of English Language and Literature, Jeonbuk National University (2023.12)
+- **Top 11 Finalist**, 2023 KPMG Ideathon: From Ideas to Prototypes - KPMG Korea (2023.02)
 <br/>
 
-[2022]
-- **Outstanding Developer Award**, 2022 MAPLESTORY WORLDS X LIKELION SUPER HACKATHON | NEXON, LIKELION | 2022.12
+### 2022
+- **Outstanding Developer Award**, 2022 MAPLESTORY WORLDS X LIKELION SUPER HACKATHON - NEXON, LIKELION (2022.12)
+<br/>
 <br/>
 
----
 
 ## 📖 Writing & Blogging
 
@@ -40,8 +40,8 @@ author_profile: true
 - Aim to bridge theory and practice by discussing both the **core contributions of each paper** and their **potential applications in real-world AI systems**
 - Occasionally share reflections on **hackathon experiences** and **research-related projects**, linking them to insights from the literature
 <br/>
+<br/>
 
----
 
 ## 📁 Clubs & Activities
 
@@ -73,8 +73,8 @@ author_profile: true
 - **Club Member (2024.09 – 2025.02)**  
 - Participated in regular study sessions and projects focusing on **data analysis workflows**, improving competence in handling structured and unstructured datasets
 <br/>
+<br/>
 
----
 
 ## 👩🏻‍🏫 Mentoring & Volunteering  
 
@@ -92,8 +92,8 @@ author_profile: true
 - Tutored **English and Mathematics** for underprivileged elementary school students 
 - Supported **academic motivation** and confidence building through personalized mentoring  
 <br/>
+<br/>
 
----
 
 ## 🎤 Talks & Presentations  
 
@@ -105,4 +105,5 @@ author_profile: true
 - The competition aimed to foster creative ideas using public data and to propose solutions to **local and institutional challenges**
 - Proposed **optimal recycling station placement in Jeonju** using **Random Forest and data analysis**  
 - Selected as one of the **top three teams out of 17 finalists** and presented in the final round  
+<br/>
 <br/>
