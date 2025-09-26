@@ -4,6 +4,14 @@ title: "Activities"
 author_profile: true
 ---
 
+## Activities Overview
+- [🏆 Awards & Honors](#-awards--honors)
+- [📚 Programs & Training](#-programs--training)
+- [📁 Clubs & Activities](#-clubs--activities)
+- [👩🏻‍🏫 Mentoring & Volunteering](#-mentoring--volunteering)
+- [🎤 Talks & Presentations](#-talks--presentations)
+<br/>
+
 ## 🏆 Awards & Honors
 
 ### 2025
