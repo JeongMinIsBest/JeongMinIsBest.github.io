@@ -11,6 +11,8 @@ author_profile: true
 - [👩🏻‍🏫 Mentoring & Volunteering](#-mentoring--volunteering)
 - [🎤 Talks & Presentations](#-talks--presentations)
 <br/>
+<br/>
+
 
 ## 🏆 Awards & Honors
 
@@ -37,6 +39,36 @@ author_profile: true
 
 ### 2022
 - **Outstanding Developer Award**, 2022 MAPLESTORY WORLDS X LIKELION SUPER HACKATHON - NEXON, LIKELION (2022.12)
+<br/>
+<br/>
+
+
+## 📚 Programs & Training
+
+### 2025
+- **University Student Work Experience Support Program: WE(Work Experience)-Meet Project - Completed**, NRF (National Research Foundation of Korea) (2025.04 - 2025.07)
+- **LG Aimers 6th (Aimers / Data Intelligence) – Completed**, LG AI Research (2025.01 - 2025.02)
+- **AI CAREER SCHOOL - Completed**, Root Impact, LIKELION, Google.org (2025.01 - 2025.02)
+<br/>
+
+### 2024
+- **Boostcourse "Data Science 2024" – Coaching Study Lead Booster**, NAVER Connect Foundation (2024.07 - 2024.08)
+- **LG Aimers 5th (Aimers / Data Intelligence) – Completed**, LG AI Research (2024.07 - 2024.08)  
+- **Poten Day 407 - Completed**, BSIDE X NAVER Cloud (2024.07)
+- **Remote Internship 5th Session 1 – Completed**, CJ OliveNetworks (2024.05 - 2024.08)
+- **Seoul AI Young Workshop – Completed**, Seoul AI Hub (2024.04)
+- **Boostcourse "Let’s AI 2024" – Coaching Lead Booster**, NAVER Connect Foundation (2024.05 - 2024.06)  
+- **Seoul AI Young Workshop – Completed**, Seoul AI Hub (2024.04)
+- **2024 Smart Mobility Expert Training Course**, JBNU & JNU Innovation Center For Engineering Education (2024.01)
+<br/>
+
+### 2023
+- **JBNU CSE AI Intensified Course (DL / CV / NLP)**, JBNU (2023.11 - 2023.12)
+- **Management of the 4th Oasis Hackathon Development Team**, Gwangju Information & Content Agency (GICON) (2023.05 - 2023.08)
+<br/>
+
+### 2021
+- **2021 Python Basic & Utilization Education**, National University Development Project - Innovation Center For Engineering Education (2021.12)
 <br/>
 <br/>
 
