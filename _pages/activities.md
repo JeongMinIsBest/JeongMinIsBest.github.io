@@ -13,10 +13,10 @@ author_profile: true
 <br/>
 
 ### 2024
-- **Grand Prize(2nd Prize)**, 2024 Culture, Sports and Tourism Data Utilization Competition - Korea Culture & Tourism Institute (2024.12)
-- **Woori Bank President’s Award**, 2024 The 2nd Jeonbuk Youth Big Data Competition - Woori Bank (2024.12)
-- **COSS Chairman’s Award**, 2024 CO-SHOW - COSS(Convergence and Open Sharing System), Ministry of Education, NRF(National Research Foundation of Korea) (2024.11)
-- **1st Prize(Banking Division)**, The 3rd Shinhan Financial Group Big Data Hackathon - Big Data University, Shinhan Financial Group (2024.11)
+- **Grand Prize (2nd Prize)**, 2024 Culture, Sports and Tourism Data Utilization Competition - Korea Culture & Tourism Institute (2024.12)
+- **Woori Bank President’s Award**, The 2nd Jeonbuk Youth Big Data Competition - Woori Bank (2024.12)
+- **COSS Chairman’s Award**, 2024 CO-SHOW - COSS (Convergence and Open Sharing System), Ministry of Education, NRF(National Research Foundation of Korea) (2024.11)
+- **1st Prize (Banking Division)**, The 3rd Shinhan Financial Group Big Data Hackathon - Big Data University, Shinhan Financial Group (2024.11)
 - **Excellence Award**, The 2nd Startup Idea Competition - JBNU Software University (2024.11)
 - **Encouragement Prize**, The 1st Honam SW Startup Idea Competition - Ministry of Science and ICT, IITP, JBNU Software University (2024.09)
 <br/>
@@ -83,7 +83,7 @@ author_profile: true
 - Helped bridge the digital divide through hands-on programming, supported by the Raspberry Pi Foundation
 <br/>
 
-### KB LASCHOOL Mentor Group (3rd–4th) — *KB Kookmin Bank* | 2023.07 - 2025.02 
+### KB LASCHOOL Mentor Group (3rd – 4th) — *KB Kookmin Bank* | 2023.07 - 2025.02 
 - Mentored high school students in **English tutoring** and **Python-based game development**.  
 - Provided **career guidance** and **emotional support** as part of KB’s *DREAM WAVE 2030* program
 <br/>
@@ -101,7 +101,7 @@ author_profile: true
 - Shared insights on **data science and analytics** with undergraduate students, bridging perspectives from English studies and computational approaches
 <br/>
 
-### **Final Round Presenter** | 2024 Jeonbuk Youth Big Data Competition
+### **Final Round Presenter** | The 2nd Jeonbuk Youth Big Data Competition (2024)
 - The competition aimed to foster creative ideas using public data and to propose solutions to **local and institutional challenges**
 - Proposed **optimal recycling station placement in Jeonju** using **Random Forest and data analysis**  
 - Selected as one of the **top three teams out of 17 finalists** and presented in the final round  
