@@ -46,7 +46,7 @@ author_profile: true
 ## 📚 Programs & Training
 
 ### 2025
-- **University Student Work Experience Support Program: WE(Work Experience)-Meet Project - Completed**, NRF (National Research Foundation of Korea) (2025.04 - 2025.07)
+- **University Student Work Experience Support Program: WE Meet Project - Completed**, NRF (National Research Foundation of Korea) (2025.04 - 2025.07)
 - **LG Aimers 6th (Aimers / Data Intelligence) – Completed**, LG AI Research (2025.01 - 2025.02)
 - **AI CAREER SCHOOL - Completed**, Root Impact, LIKELION, Google.org (2025.01 - 2025.02)
 <br/>
