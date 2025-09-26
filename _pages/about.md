@@ -78,3 +78,18 @@ You can download my latest CV here:
 [![Download CV](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader)](/files/CV_latest.pdf)
 <br/>
 <br/>
+
+## 📷 Gallery
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center;">
+  <img src="/images/gallery1.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery2.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery3.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery4.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery5.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery6.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery7.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+  <img src="/images/gallery8.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
+</div>
+<br/>
+<br/>
