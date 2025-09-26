@@ -25,7 +25,7 @@ author_profile: true
 ### 2024
 - **Grand Prize (2nd Prize)**, 2024 Culture, Sports and Tourism Data Utilization Competition - Korea Culture & Tourism Institute (2024.12)
 - **Woori Bank President’s Award**, The 2nd Jeonbuk Youth Big Data Competition - Woori Bank (2024.12)
-- **COSS Chairman’s Award**, 2024 CO-SHOW - COSS (Convergence and Open Sharing System), Ministry of Education, NRF (National Research Foundation of Korea) (2024.11)
+- **COSS Chairman’s Award**, 2024 CO - SHOW - COSS (Convergence and Open Sharing System), Ministry of Education, NRF (National Research Foundation of Korea) (2024.11)
 - **1st Prize (Banking Division)**, The 3rd Shinhan Financial Group Big Data Hackathon - Big Data University, Shinhan Financial Group (2024.11)
 - **Excellence Award**, The 2nd Startup Idea Competition - JBNU Software University (2024.11)
 - **Encouragement Prize**, The 1st Honam SW Startup Idea Competition - Ministry of Science and ICT, IITP, JBNU Software University (2024.09)
@@ -46,25 +46,26 @@ author_profile: true
 ## 📚 Programs & Training
 
 ### 2025
-- **University Student Work Experience Support Program: WE Meet Project - Completed**, NRF (National Research Foundation of Korea) (2025.04 - 2025.07)
-- **LG Aimers 6th (Aimers / Data Intelligence) – Completed**, LG AI Research (2025.01 - 2025.02)
-- **AI CAREER SCHOOL - Completed**, Root Impact, LIKELION, Google.org (2025.01 - 2025.02)
+- **AWS Korea Headquarters Training: AI Competency Enhancement Program** - SNU, AWS Korea (2025.06)
+- **University Student Work Experience Support Program: WE Meet Project - Completed** - NRF (National Research Foundation of Korea) (2025.04 - 2025.07)
+- **LG Aimers 6th (Aimers / Data Intelligence) - Completed** - LG AI Research (2025.01 - 2025.02)
+- **AI CAREER SCHOOL - Completed** - Root Impact, LIKELION, Google.org (2025.01 - 2025.02)
 <br/>
 
 ### 2024
-- **Boostcourse "Data Science 2024" – Coaching Study Lead Booster**, NAVER Connect Foundation (2024.07 - 2024.08)
-- **LG Aimers 5th (Aimers / Data Intelligence) – Completed**, LG AI Research (2024.07 - 2024.08)  
-- **Poten Day 407 - Completed**, BSIDE X NAVER Cloud (2024.07)
-- **Remote Internship 5th Session 1 – Completed**, CJ OliveNetworks (2024.05 - 2024.08)
-- **Seoul AI Young Workshop – Completed**, Seoul AI Hub (2024.04)
-- **Boostcourse "Let’s AI 2024" – Coaching Lead Booster**, NAVER Connect Foundation (2024.05 - 2024.06)  
-- **Seoul AI Young Workshop – Completed**, Seoul AI Hub (2024.04)
-- **2024 Smart Mobility Expert Training Course**, JBNU & JNU Innovation Center For Engineering Education (2024.01)
+- **Boostcourse "Data Science 2024" – Coaching Study Lead Booster** - NAVER Connect Foundation (2024.07 - 2024.08)
+- **LG Aimers 5th (Aimers / Data Intelligence) – Completed** - LG AI Research (2024.07 - 2024.08)  
+- **Poten Day 407 - Completed** - BSIDE, NAVER Cloud (2024.07)
+- **Remote Internship 5th Session 1 - Completed** - CJ OliveNetworks (2024.05 - 2024.08)
+- **Seoul AI Young Workshop – Completed** - Seoul AI Hub (2024.04)
+- **Boostcourse "Let’s AI 2024" – Coaching Lead Booster** - NAVER Connect Foundation (2024.05 - 2024.06)  
+- **Seoul AI Young Workshop – Completed** - Seoul AI Hub (2024.04)
+- **2024 Smart Mobility Expert Training Course** - JBNU & JNU Innovation Center For Engineering Education (2024.01)
 <br/>
 
 ### 2023
-- **JBNU CSE AI Intensified Course (DL / CV / NLP)**, JBNU (2023.11 - 2023.12)
-- **Management of the 4th Oasis Hackathon Development Team**, Gwangju Information & Content Agency (GICON) (2023.05 - 2023.08)
+- **JBNU CSE AI Intensified Course (DL / CV / NLP)** - JBNU (2023.11 - 2023.12)
+- **Management of the 4th Oasis Hackathon Development Team** - Gwangju Information & Content Agency (GICON) (2023.05 - 2023.08)
 <br/>
 
 ### 2021
