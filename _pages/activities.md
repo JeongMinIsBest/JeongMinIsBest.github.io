@@ -15,7 +15,7 @@ author_profile: true
 ### 2024
 - **Grand Prize (2nd Prize)**, 2024 Culture, Sports and Tourism Data Utilization Competition - Korea Culture & Tourism Institute (2024.12)
 - **Woori Bank President’s Award**, The 2nd Jeonbuk Youth Big Data Competition - Woori Bank (2024.12)
-- **COSS Chairman’s Award**, 2024 CO-SHOW - COSS (Convergence and Open Sharing System), Ministry of Education, NRF(National Research Foundation of Korea) (2024.11)
+- **COSS Chairman’s Award**, 2024 CO-SHOW - COSS (Convergence and Open Sharing System), Ministry of Education, NRF (National Research Foundation of Korea) (2024.11)
 - **1st Prize (Banking Division)**, The 3rd Shinhan Financial Group Big Data Hackathon - Big Data University, Shinhan Financial Group (2024.11)
 - **Excellence Award**, The 2nd Startup Idea Competition - JBNU Software University (2024.11)
 - **Encouragement Prize**, The 1st Honam SW Startup Idea Competition - Ministry of Science and ICT, IITP, JBNU Software University (2024.09)
