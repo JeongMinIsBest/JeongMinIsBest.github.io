@@ -100,7 +100,7 @@ author_profile: true
 <br/>
 
 ### LIKELION UNIV. JBNU 11th – 12th | 2023.03 – 2024.12
-- **Club President (2023 – 2024)**  
+- **Club Representative (2023.03 – 2024.12)**  
 - Oversaw projects in **Web Service Development** and **Mobile Application Development**, guiding teams through the complete development cycle  
 - Built strong collaboration skills by connecting students from different majors and encouraging entrepreneurial thinking through software projects  
 <br/>
