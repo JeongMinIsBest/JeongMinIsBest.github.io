@@ -58,6 +58,7 @@ Looking ahead, my goal is to advance research in **NLP and multilingual language
 
 ### Jeonbuk National University | Jeonju, Korea  
 **Bachelor of Arts. in English Language and Literature**
+  
 **Bachelor of Science. in Computer Science and Engineering (Double Major)**  
 *Mar 2020 – Feb 2025*  
 - Built a strong interdisciplinary foundation by combining **language, literature, and computational methods**.  
