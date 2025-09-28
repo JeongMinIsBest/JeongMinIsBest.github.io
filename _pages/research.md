@@ -39,7 +39,7 @@ author_profile: true
 - Built preprocessing pipelines, including **SentencePiece tokenization, subword vocabulary construction, and text cleaning**.  
 - Implemented and trained baseline models (**Seq2Seq and Transformer-based architectures**) for response generation.  
 - Conducted evaluation using **BLEU and BERTScore**, and analyzed the effects of different decoding strategies (greedy, beam search, sampling).  
-[🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD0910)  
+   - [🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD0910)  
 <br/>
 
 ### 🌳 ESG-based Credit Scoring Model for Small Businesses | Jun 2025 - Aug 2025
