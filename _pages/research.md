@@ -71,14 +71,11 @@ author_profile: true
 
 Across these projects, my research contributions can be summarized into three main themes:  
 
-1. **NLP & Large Language Models** –  
-   Building and fine-tuning models for **dialogue systems, text classification, and multilingual NLP**, with a focus on model compression and efficient deployment.  
+1. **NLP & Large Language Models** – Building and fine-tuning models for **dialogue systems, text classification, and multilingual NLP**, with a focus on model compression and efficient deployment.  
   
-2. **Applied AI for Social Impact** –  
-   Applying machine learning to domains such as **ESG-based credit scoring** and **green financial product design**, demonstrating how AI can support **financial inclusion and sustainability**.  
+2. **Applied AI for Social Impact** – Applying machine learning to domains such as **ESG-based credit scoring** and **green financial product design**, demonstrating how AI can support **financial inclusion and sustainability**.  
   
-3. **Interdisciplinary AI** –  
-   Bridging **English Literature and Data Science** through projects like **Shakespeare text mining**, showing how computational methods can enrich traditional humanities research.  
+3. **Interdisciplinary AI** – Bridging **English Literature and Data Science** through projects like **Shakespeare text mining**, showing how computational methods can enrich traditional humanities research.  
   
 Together, these projects highlight my interest in advancing **practical, efficient, and socially meaningful NLP research**.
 <br/>
