@@ -1,6 +1,6 @@
 ---
 title: "Credit Evaluation Alternative Model for Low-credit Small Business Owners, Utilizing Lifestyle-based ESG Quantitative Indicators"
-excerpt: "National Finalist & Awardee at 2025 FIN:NECT Challenge<br/><img src='images/portfolio1.png'>"
+excerpt: "National Finalist & Awardee at 2025 FIN:NECT Challenge<br/><img src='images/portfolio/portfolio1.png'>"
 collection: portfolio
 ---
 
