@@ -13,7 +13,7 @@ author_profile: true
 - Experimented with multiple training strategies, including **Supervised Fine-tuning (SFT)**, **early stopping**, and **hyperparameter tuning**.  
 - Evaluated model performance using accuracy and qualitative assessments of generated outputs.  
 - Gained practical experience in **adapting large pre-trained models** to domain-specific tasks and comparing their effectiveness across architectures.  
-[🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD1516)  
+   - [🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD1516)  
 <br/>
 
 ### 🔠 Mini-BERT Model Compression | Sep 2025  
@@ -22,8 +22,8 @@ author_profile: true
 - Applied **parameter reduction techniques** (e.g., pruning and low-rank factorization) to further optimize resource usage.  
 - Conducted **benchmarks on text classification tasks**, analyzing the trade-offs between computational efficiency and predictive performance.  
 - Gained insights into the practical deployment of **lightweight language models** in resource-constrained environments.   
-[🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD1314)
-[📄 View Full Report (PDF)](/files/Width Matters Efficient Scaling of Compact BERT Models.pdf)  
+   - [🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD1314)
+   - [📄 View Full Report (PDF)](/files/Width Matters Efficient Scaling of Compact BERT Models.pdf)  
 <br/>
 
 ### 🤖 Classical Machine Learning and DL Fundamentals | Aug 2025
@@ -31,7 +31,7 @@ author_profile: true
 - Implemented core ML algorithms (**SVM, Random Forest, Logistic Regression**) on structured datasets, practicing feature engineering and model selection.  
 - Designed and trained **basic neural networks** using TensorFlow and PyTorch to compare performance with classical ML approaches.  
 - Evaluated models through **cross-validation and performance metrics**, gaining a solid understanding of trade-offs between classical ML and DL methods.  
-[🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD0304)  
+   - [🔗 GitHub Repository](https://github.com/JeongMinIsBest/AIFFEL_quest_rs/tree/main/GoingDeeper/GD0304)  
 <br/>
 
 ### 🗨️ NLP Pipeline and Korean Chatbot | Aug 2025  
@@ -47,7 +47,7 @@ author_profile: true
 - Incorporated **non-financial ESG indicators** (energy savings, social contributions, privacy protection) alongside traditional credit factors.  
 - Applied **XGBoost and CatBoost** for predictive modeling, achieving higher fairness and interpretability.  
 - Proposed policy implications for regional banks to enhance financial inclusion.  
-[📄 View Full Report (PDF)](/files/MyResearchPoster.pdf)
+   - [📄 View Full Report (PDF)](/files/MyResearchPoster.pdf)
 <br/>
 
 ### 🏦 Shinhan Big Data Hackathon: ESG Financial Product Design | Oct 2024 - Nov 2024  
@@ -55,7 +55,7 @@ author_profile: true
 - Identified customer segments based on ESG consumption behaviors.  
 - Designed a new **green savings account product**, linking financial incentives to sustainable consumption.  
 - Proposed marketing and policy strategies to attract **young customers (20s–30s)** to ESG products.  
-[🔗 Notion Page](https://www.notion.so/Green-Consumption-Savings-Account-ESG-Financial-Product-Proposal-1d1fb4f8761581369fb9c56899e5494a?source=copy_link)
+   - [🔗 Notion Page](https://www.notion.so/Green-Consumption-Savings-Account-ESG-Financial-Product-Proposal-1d1fb4f8761581369fb9c56899e5494a?source=copy_link)
 <br/>
 
 ### 📚 Shakespeare Text Mining: Tragedies vs. Comedies | Dec 2023
@@ -63,7 +63,7 @@ author_profile: true
 - Quantified the **frequency of “death” and related semantic fields**, highlighting genre-specific lexical patterns.  
 - Applied **sentiment analysis** to compare emotional tones across the two genres.  
 - Showcased the integration of an **English Literature background** with **NLP and Data Science techniques**, bridging the gap between humanities and computational research.  
-[📄 View Full Report (PDF)](files/Data_Analysis.pdf)
+   - [📄 View Full Report (PDF)](files/Data_Analysis.pdf)
 <br/>
 <br/>
 
