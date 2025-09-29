@@ -63,7 +63,7 @@ author_profile: true
 - Quantified the **frequency of “death” and related semantic fields**, highlighting genre-specific lexical patterns.  
 - Applied **sentiment analysis** to compare emotional tones across the two genres.  
 - Showcased the integration of an **English Literature background** with **NLP and Data Science techniques**, bridging the gap between humanities and computational research.  
-   - [📄 View Full Report (PDF)](files/Data_Analysis.pdf)
+   - [📄 View Full Report (PDF)](/files/Data_Analysis.pdf)
 <br/>
 <br/>
 
