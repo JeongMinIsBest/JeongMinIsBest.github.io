@@ -11,21 +11,20 @@ I am an **AI Research Trainee at Aiffel Research 14th, Modulabs**. My work focus
 <br/>
 
 ## 🔬 Research Interests
-- Natural Language Processing (NLP)  
-- Machine Translation (MT)  
-- Large Language Models (LLMs)  
-- Applied AI for Multilingual Systems  
+- Efficient multilingual representation learning for low-resource languages, including machine translation  
+- Lightweight pretraining and fine-tuning methods for large language models (LLMs)  
+- Enhancing reliability and factual consistency of dialogue systems for socially beneficial applications   
 <br/>
 <br/>
 
 ## 📑 Research Overview
-My research interests lie in **Artificial Intelligence, Natural Language Processing (NLP), and Large Language Models (LLMs)**, with a particular focus on **Machine Translation** and **applied NLP systems**.
-  
-I have worked on several projects and competitions, including the development of data-driven models for **ESG credit scoring**, **chatbot dialogue systems**, and **multilingual text analysis**.
-  
-Through these experiences, I gained hands-on expertise in machine learning techniques such as **XGBoost, CatBoost, and Transformer-based architectures**, as well as practical knowledge in data preprocessing, clustering, and evaluation.  
-  
-Looking ahead, my goal is to advance research in **NLP and multilingual language models**, and to build AI systems that not only achieve high performance but also contribute to solving **real-world challenges**.
+My research interests lie in **Artificial Intelligence, Natural Language Processing (NLP), and Large Language Models (LLMs)**, with a particular focus on **efficient multilingual representation learning for low-resource languages, including machine translation**, as well as **lightweight pretraining and reliable dialogue systems**.  
+
+I have worked on several projects and competitions, including the development of data-driven models for **ESG credit scoring**, **chatbot dialogue systems with emotion analysis**, and **multilingual text analysis**.  
+
+Through these experiences, I gained hands-on expertise in machine learning techniques such as **XGBoost, CatBoost, and Transformer-based architectures**, as well as practical knowledge in **data preprocessing, clustering, and evaluation**.  
+
+Looking ahead, my goal is to advance research in **efficient and trustworthy multilingual NLP systems**, and to build AI models that not only achieve high performance but also contribute to solving **real-world challenges with reliability and social impact**.
 <br/>
 <br/>
 
