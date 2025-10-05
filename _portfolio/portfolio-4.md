@@ -17,6 +17,7 @@ collection: portfolio
 <br/>
 
 [🔗 GitHub Repository - Platform](https://github.com/JeongMinIsBest/Bloom)
+  
 [🔗 GitHub Repository - AI Model](https://github.com/JeongMinIsBest/2025-AICS-Bloom-MODEL)
 <br/>
 
@@ -28,4 +29,13 @@ collection: portfolio
 ![잘못된 만남_블룸_page-0006](https://github.com/user-attachments/assets/e42fde61-66cc-40d4-b504-57078dcd6dec)
 ![잘못된 만남_블룸_page-0007](https://github.com/user-attachments/assets/98504925-d19e-4ec9-9270-1f04cee36825)
 ![잘못된 만남_블룸_page-0008](https://github.com/user-attachments/assets/151443e2-3302-40af-8ef1-e7ed6d43ffa2)
+<br/>
+
+## 👥 Team 「RecomMomd」 Members  
+- **JeongMin Lim** — *AI Engineer*
+- GyuMin Kim — *Project Manager*
+- DaeMin Kim — *Backend Engineer*
+- HaYoung Kim — *Frontend Developer*
+- SungHo Cho — *Backend Engineer, Infrastructure* 
+- SeulAh Choi — *UX/UI Designer*
 <br/>
