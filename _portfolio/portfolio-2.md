@@ -23,3 +23,10 @@ collection: portfolio
 ![2025 전북 공공데이터 창업 경진대회_page-0006](https://github.com/user-attachments/assets/36d0ea7a-5131-427c-bfe4-b5a5df8c96a9)
 ![2025 전북 공공데이터 창업 경진대회_page-0007](https://github.com/user-attachments/assets/ecf58252-8aae-4a22-8fbd-2983822648ff)
 <br/>
+
+## 👥 Team 「Jeonbugi」 Members  
+- **JeongMin Lim** — *AI Engineer for Recommendation System & Data Processing*  
+- MinSu Kang — *AI Engineer for Data Analytics & Model Evaluation* 
+- GiBaek Lee — *Team Lead, AI Engineer for Computer Vision (YOLO-based Defect Detection)*  
+- HyeWon Lee — *Backend & Data Engineer (API, DB, Data Pipeline)*
+<br/>
