@@ -20,7 +20,14 @@ collection: portfolio
 [📄 View Full Proposal (PDF)](/files/recommomd.pdf)
   
 <video width="600" controls poster="images/portfolio/recommomd.png">
-  <source src="/files/hospital_matching_demo.mp4" type="video/mp4">
+  <source src="files/recommomd.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br/>
+
+## 👥 Team 「RecomMomd」 Members  
+- **JeongMin Lim** — *AI Engineer*
+- DaeMin Kim — *Backend Engineer*
+- HaYoung Kim — *Frontend Developer* 
+- SeulAh Choi — *UX/UI Designer*
 <br/>
