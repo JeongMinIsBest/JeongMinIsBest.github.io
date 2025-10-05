@@ -5,6 +5,13 @@ permalink: /
 author_profile: true
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; height: 500px; gap: 5px; border-radius: 10px; overflow: hidden;">
+  <img src="/images/gallery_main.jpg" style="width:100%; height:100%; object-fit: cover;">
+  <img src="/images/award.jpg" style="width:100%; height:100%; object-fit: cover;">
+</div>
+<br/>
+<br/>
+
 ## 🌠 Introduction
 I am an **AI Research Trainee at Aiffel Research 14th, Modulabs**. My work focuses on **Artificial Intelligence, Natural Language Processing (NLP), and Large Language Models (LLMs).**
 <br/>
