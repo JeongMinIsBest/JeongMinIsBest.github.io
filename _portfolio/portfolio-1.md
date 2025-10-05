@@ -17,8 +17,6 @@ collection: portfolio
 <br/>
 
 [🔗 LinkedIn Page](https://www.linkedin.com/posts/ljm1614_fintech-esg-ai-activity-7368604206519242754-cMKe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpH2tkBEMS6pS_OPixyLEWy_j3teHbe9ww)
-  
-[📄 View Full Report (PDF)](/files/finnect_esg_model.pdf)
 <br/>
 
 ![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_pages-to-jpg-0001](https://github.com/user-attachments/assets/d0aff64c-d7e6-464f-b1af-8c049f3944ca)
