@@ -25,7 +25,7 @@ collection: portfolio
 <br/>
 
 ## 👥 Team 「Jeonbugi」 Members  
-- **JeongMin Lim** — *Project Manager, AI Engineer for Recommendation System & Data Processing*  
+- **JeongMin Lim** — *AI Engineer for Recommendation System & Data Processing, Project Manager*  
 - MinSu Kang — *AI Engineer for Data Analytics & Model Evaluation* 
 - GiBaek Lee — *Team Lead, AI Engineer for Computer Vision (YOLO-based Defect Detection)*  
 - HyeWon Lee — *Backend & Data Engineer (API, DB, Data Pipeline)*
