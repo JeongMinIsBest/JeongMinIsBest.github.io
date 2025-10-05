@@ -4,7 +4,7 @@ excerpt: "Developed an AI-powered diary service that performs emotion classifica
 collection: portfolio
 ---
 
-## 💙 AI Emotional Support Service for the Socially Vulnerable
+## 💙 Daily Mood: AI Emotional Support Service for the Socially Vulnerable
 *Team Project | Sep 2024 – Dec 2024*  
 <br/>
 
@@ -32,4 +32,11 @@ collection: portfolio
 ![캡스톤디자인_hello world 발표자료_page-0020](https://github.com/user-attachments/assets/77248bb0-378c-4221-93c8-6a7ed786ecb4)
 ![캡스톤디자인_hello world 발표자료_page-0021](https://github.com/user-attachments/assets/21f70671-0060-448c-b788-a4f1ae7891d3)
 ![캡스톤디자인_hello world 발표자료_page-0022](https://github.com/user-attachments/assets/9113789b-03fc-4fd7-b792-ede2862d527b)
+<br/>
+
+## 👥 Team 「hello world」 Members  
+- **JeongMin Lim** — *AI Engineer, Frontend Developer, Project Manager*  
+- Seungwon Baek — *Backend Developer*  
+- Woojin Cha — *Frontend Developer*  
+- Woochan Choi — *Team Lead, AI Engineer*  
 <br/>
