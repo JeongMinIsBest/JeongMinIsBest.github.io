@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## 🌱 Credit Evaluation Alternative Model for Low-credit Small Business Owners, Utilizing Lifestyle-based ESG Quantitative Indicators
-*Team Project | Jun 2025 – Aug 2025*  
+*Team Project for 2025 FIN:NECT Challenge | Jun 2025 – Aug 2025*  
 <br/>
 
 - Developed an **alternative credit scoring model** incorporating **everyday ESG practices** (e.g., electricity usage, local product sales, electronic receipts, waste reduction) to address financial blind spots of micro-enterprises.  
@@ -25,4 +25,16 @@ collection: portfolio
 ![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_pages-to-jpg-0005](https://github.com/user-attachments/assets/06f9e60d-d734-445d-884c-08d9a6badf43)
 ![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_pages-to-jpg-0010](https://github.com/user-attachments/assets/07ae9c35-95d3-461f-891c-f4bee853e0f1)
 ![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_pages-to-jpg-0006](https://github.com/user-attachments/assets/591279c7-46d3-4117-8941-878c43800f51)
+![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_page-0007](https://github.com/user-attachments/assets/81bdbe2d-bff3-4800-99dd-b18234499b9b)
+![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_page-0008](https://github.com/user-attachments/assets/d87c7a74-3246-4de5-81ae-7c3a7abc278c)
+![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_page-0009](https://github.com/user-attachments/assets/5fa2f626-cae4-4fe1-9191-d9ba47d92a82)
+![2025 FINNECT 챌린지_통합 본선_발표자료(호락호락)_page-0011](https://github.com/user-attachments/assets/1a6cb710-4403-43ca-9347-edc06f3ed3ae)
+<br/>
+
+## 👥 Team 「Horak Horak」 Members  
+- **JeongMin Lim** — *Team Lead, AI Engineer*  
+- JunHyuk Kim — *Backend Developer* 
+- Hayoung Kim — *Frontend Developer*  
+- Jinyong Park — *AI Engineer*
+- Hankyu Yoo – *Finance Researcher*
 <br/>
