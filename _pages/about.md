@@ -75,7 +75,7 @@ My long-term goal is to:
 ## 📄 Curriculum Vitae
 You can download my latest CV here:
 
-[![Download CV](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader)](/files/CV_latest.pdf)
+[![Download CV](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader)](/files/jeongmin_cv.pdf)
 <br/>
 <br/>
 
