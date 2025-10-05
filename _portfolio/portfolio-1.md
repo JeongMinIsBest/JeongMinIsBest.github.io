@@ -16,7 +16,8 @@ collection: portfolio
 - Selected as a **National Finalist & Awardee** in the **2025 FIN:NECT Challenge**, recognized for technical innovation and policy applicability.  
 <br/>
 
-[🔗 LinkedIn Page](https://www.linkedin.com/posts/ljm1614_fintech-esg-ai-activity-7368604206519242754-cMKe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpH2tkBEMS6pS_OPixyLEWy_j3teHbe9ww) 
+[🔗 LinkedIn Page](https://www.linkedin.com/posts/ljm1614_fintech-esg-ai-activity-7368604206519242754-cMKe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpH2tkBEMS6pS_OPixyLEWy_j3teHbe9ww)
+
 [📄 View Full Report (PDF)](/files/finnect_esg_model.pdf)
 <br/>
 
