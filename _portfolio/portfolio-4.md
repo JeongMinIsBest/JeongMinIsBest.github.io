@@ -4,7 +4,7 @@ excerpt: "Built an AI-powered simulator that integrates real-time data (weather 
 collection: portfolio
 ---
 
-## 🏦 Bloom: AI-Based Financial Literacy Simulator  
+## 🏦 BlooM: AI-Based Financial Literacy Simulator  
 *Team Project | Jan 2025 – Feb 2025*  
 <br/>
 
@@ -16,9 +16,9 @@ collection: portfolio
 - Highlighted the role of **AI and real-world signals** in **enhancing financial education** through applied machine learning.  
 <br/>
 
-[🔗 GitHub Repository - Platform](https://github.com/JeongMinIsBest/Bloom)
+[🔗 GitHub Repository - About Platform](https://github.com/JeongMinIsBest/Bloom)
   
-[🔗 GitHub Repository - AI Model](https://github.com/JeongMinIsBest/2025-AICS-Bloom-MODEL)
+[🔗 GitHub Repository - About AI Model](https://github.com/JeongMinIsBest/2025-AICS-Bloom-MODEL)
 <br/>
 
 ![잘못된 만남_블룸_page-0001](https://github.com/user-attachments/assets/42703dfa-a0ac-4350-9cd6-6946b5cdd0b2)
@@ -31,7 +31,7 @@ collection: portfolio
 ![잘못된 만남_블룸_page-0008](https://github.com/user-attachments/assets/151443e2-3302-40af-8ef1-e7ed6d43ffa2)
 <br/>
 
-## 👥 Team 「RecomMomd」 Members  
+## 👥 Team 「BlooM」 Members  
 - **JeongMin Lim** — *AI Engineer*
 - GyuMin Kim — *Project Manager*
 - DaeMin Kim — *Backend Engineer*
