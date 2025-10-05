@@ -16,9 +16,6 @@ collection: portfolio
 - Awarded **Excellence Prize** at the **2025 Jeonbuk Public Data Startup Competition**, recognized for innovation in sustainable food distribution.  
 <br/>
 
-[📄 View Full Report (PDF)](/files/jeonbuk_bgrade_project.pdf)  
-<br/>
-
 ![2025 전북 공공데이터 창업 경진대회_page-0001](https://github.com/user-attachments/assets/dae21216-2f55-4159-b514-2b8a19b6aec0)
 ![2025 전북 공공데이터 창업 경진대회_page-0003](https://github.com/user-attachments/assets/323fc3bf-149f-4d44-a967-1195bfb0f734)
 ![2025 전북 공공데이터 창업 경진대회_page-0004](https://github.com/user-attachments/assets/10a05a83-6c95-4187-babb-b3c7f75235de)
