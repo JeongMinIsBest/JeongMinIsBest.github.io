@@ -19,8 +19,8 @@ collection: portfolio
 
 [📄 View Full Proposal (PDF)](/files/recommomd.pdf)
   
-<video width="600" controls poster="images/portfolio/recommomd.png">
-  <source src="files/recommomd.mp4" type="video/mp4">
+<video width="600" controls poster="/images/portfolio/recommomd.png">
+  <source src="/files/recommomd.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br/>
