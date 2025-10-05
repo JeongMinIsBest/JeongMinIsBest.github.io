@@ -6,7 +6,7 @@ collection: portfolio
 
 ## 🌱 Credit Evaluation Alternative Model for Low-credit Small Business Owners, Utilizing Lifestyle-based ESG Quantitative Indicators
 *Team Project | Jun 2025 – Aug 2025*  
-<Br/>
+<br/>
 
 - Developed an **alternative credit scoring model** incorporating **everyday ESG practices** (e.g., electricity usage, local product sales, electronic receipts, waste reduction) to address financial blind spots of micro-enterprises.  
 - Designed a **multi-dimensional scoring framework** (E: 30%, S: 25%, G: 25%, Special ESG: 20%) balancing fairness and sector-specific characteristics.  
