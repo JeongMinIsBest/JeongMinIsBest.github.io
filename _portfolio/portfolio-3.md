@@ -1,10 +1,10 @@
 ---
-title: "RecomMomd: Hospital Matching System in Chungbuk"
+title: "RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk"
 excerpt: "AI-driven maternity hospital recommendation service addressing low birth rate and medical accessibility issues in Chungbuk Province.<br/><img src='/images/portfolio/recommomd.png'>"
 collection: portfolio
 ---
 
-## 🏥 Hospital Matching System in Chungbuk (RecomMomd: AI-based Maternity Hospital Recommendation)
+## 🏥 RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk
 *Team Project | Jun 2025*
 <br/>
 
@@ -17,10 +17,10 @@ collection: portfolio
 - Highlighted **policy-level implications**, enabling data-driven maternal healthcare planning and boosting trust in local hospitals.
 <br/>
 
-[📄 View Full Proposal (PDF)](/files/recommomd_hospital_matching_proposal.pdf)
+[📄 View Full Proposal (PDF)](/files/recommomd.pdf)
   
-<video width="600" controls>
-  <source src="/files/recommomd_demo.mp4" type="video/mp4">
+<video width="600" controls poster="images/portfolio/recommomd.png">
+  <source src="/files/hospital_matching_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br/>
