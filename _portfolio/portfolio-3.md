@@ -26,7 +26,7 @@ collection: portfolio
 <br/>
 
 ## 👥 Team 「RecomMomd」 Members  
-- **JeongMin Lim** — *AI Engineer*
+- **JeongMin Lim** — *Team Lead, AI Engineer*
 - DaeMin Kim — *Backend Engineer*
 - HaYoung Kim — *Frontend Developer* 
 - SeulAh Choi — *UX/UI Designer*
