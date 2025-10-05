@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; height: 500px; gap: 5px; border-radius: 10px; overflow: hidden;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; height: 350px; gap: 5px; border-radius: 10px; overflow: hidden;">
   <img src="/images/gallery_main.jpg" style="width:100%; height:100%; object-fit: cover;">
   <img src="/images/award.jpg" style="width:100%; height:100%; object-fit: cover;">
 </div>
