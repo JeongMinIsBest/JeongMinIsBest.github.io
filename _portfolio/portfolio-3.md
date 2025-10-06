@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## 🏥 RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk
-*Team Project | Jun 2025*
+*Team Project for 2025 Hackathon Discovering Artificial Intelligence Convergence Policy in Chungbuk | Jun 2025*
 <br/>
 
 - Tackled the **low birth rate problem** and **lack of maternity hospital accessibility** in Chungbuk Province.  
