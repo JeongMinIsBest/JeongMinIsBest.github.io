@@ -64,10 +64,10 @@ Looking ahead, my goal is to advance research in **efficient and trustworthy mul
 
 ### Jeonbuk National University | Jeonju, Korea  
 *Mar 2020 – Aug 2025*
-- **Bachelor of Arts. in English Language and Literature**    
-- **Bachelor of Science. in Computer Science and Engineering (Double Major)**  
-  - Built a strong interdisciplinary foundation by combining **language, literature, and computational methods**
-  - Awarded **SW Convergence J-Point Excellence Scholarship (Spring 2025)** and **Top Excellence Scholarship (Fall 2024)** for outstanding achievement in Computer Science and Engineering field
+**Bachelor of Arts. in English Language and Literature**    
+**Bachelor of Science. in Computer Science and Engineering (Double Major)**  
+- Built a strong interdisciplinary foundation by combining **language, literature, and computational methods**
+- Awarded **SW Convergence J-Point Excellence Scholarship (Spring 2025)** and **Top Excellence Scholarship (Fall 2024)** for outstanding achievement in Computer Science and Engineering field
 <br/>
 <br/>
 
