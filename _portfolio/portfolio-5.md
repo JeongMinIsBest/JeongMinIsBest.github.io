@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## 💙 Daily Mood: AI Emotional Support Service for the Socially Vulnerable
-*Team Project | Sep 2024 – Dec 2024*  
+*Team Project for 2024-2 (Fall) Capstone Design 3 | Sep 2024 – Dec 2024*  
 <br/>
 
 - Proposed and built **“DailyMood”**, an AI-based emotional diary analysis service designed to support **socially vulnerable groups (youth, elderly, and isolated individuals)**.  
