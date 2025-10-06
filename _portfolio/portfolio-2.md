@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## 🍎 Rebellion of the Ugly: Data-driven B-grade Agricultural Product Distribution Platform  
-*Team Project | Jun 2025 – Jul 2025*  
+*Team Project for 2025 Jeonbuk State Public Data Utilization Start-up Competition | Jun 2025 – Jul 2025*  
 <br/>
 
 - Proposed and prototyped a **platform for redistributing B-grade agricultural products** in Jeonbuk, addressing food waste and price volatility issues.  
