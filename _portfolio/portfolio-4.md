@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## 🏦 BlooM: AI-Based Financial Literacy Simulator  
-*Team Project | Jan 2025 – Feb 2025*  
+*Team Project for 2025 Root Impact X Google.org Hackathon | Jan 2025 – Feb 2025*  
 <br/>
 
 - Designed an **AI-driven simulation platform** for financial literacy training, targeting **young users** with data-driven scenarios.  
