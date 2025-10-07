@@ -39,7 +39,7 @@ collection: portfolio
 
 ## 👥 Team 「hello world」 Members  
 - **JeongMin Lim** — *AI Engineer, Frontend Developer, Project Manager*  
-- Seungwon Baek — *Backend Developer*  
-- Woojin Cha — *Frontend Developer*  
-- Woochan Choi — *Team Lead, AI Engineer*  
+- SeungWon Baek — *Backend Developer*  
+- WooJin Cha — *Frontend Developer*  
+- WooChan Choi — *Team Lead, AI Engineer*  
 <br/>
