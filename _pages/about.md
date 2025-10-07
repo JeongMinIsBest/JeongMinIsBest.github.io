@@ -82,7 +82,7 @@ My long-term goal is to:
 <br/>
 
 ## 📄 Curriculum Vitae
-You can download my latest CV here (to be updated in November):
+You can download my latest CV here (The completed version of my CV is ready now and will be published here in November):
 
 [![Download CV](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader)](/files/jeongmin_cv.pdf)
 <br/>
