@@ -19,6 +19,9 @@ collection: portfolio
 - Final prototype showcased via **interactive demo video** and **team presentation**, highlighting both technical contributions and societal impact.
 <br/>
 
+[🔗 GitHub Repository](https://github.com/DAILY-MOOD)
+<br/>
+
 ![capstone](https://github.com/user-attachments/assets/a630c9b0-b0a9-4c3d-92c3-f886bfa10b71)
 ![캡스톤디자인_hello world 발표자료_page-0003](https://github.com/user-attachments/assets/c76da402-9c12-404d-9aff-11b5e6bd20eb)
 ![캡스톤디자인_hello world 발표자료_page-0006](https://github.com/user-attachments/assets/71ed56fb-946a-4415-9c47-b6eda61e02e9)
