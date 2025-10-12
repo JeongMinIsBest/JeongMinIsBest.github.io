@@ -38,5 +38,5 @@ collection: portfolio
 - **JeongMin Lim** — *Data Scientist, Lead Analyst*
 - HyeYoon Seo — *Data Scientist*
 - YeongHwi Cho — *Data Scientist*
-- DoHoon Hwang - *Data Scientist*
+- DoHoon Hwang — *Data Scientist*
 <br/>
