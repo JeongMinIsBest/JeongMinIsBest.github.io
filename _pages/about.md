@@ -37,7 +37,7 @@ Looking ahead, my goal is to advance research in **efficient and trustworthy mul
 
 ## 💼 Experience
 
-### AI Research Trainee | Modulabs (Remote, Seoul, Korea)  
+### AI Research Trainee | Modulabs — Remote (Seoul, Korea)  
 *Jul 2025 – Present*  
 - Applied **Machine Learning and Deep Learning** techniques to real-world datasets in NLP and Computer Vision  
 - Built and fine-tuned **text classification** and **sentiment/emotion analysis** models using **PyTorch** and **Hugging Face Transformers**  
