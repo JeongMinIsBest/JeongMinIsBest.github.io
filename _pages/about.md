@@ -25,7 +25,7 @@ I am an **AI Research Trainee at Aiffel Research 14th, Modulabs**. My work focus
 <br/>
 
 ## 📑 Research Overview
-My research interests lie in **Artificial Intelligence, Natural Language Processing (NLP), and Large Language Models (LLMs)**, with a particular focus on **efficient multilingual representation learning for low-resource languages, including machine translation**, as well as **lightweight pretraining and reliable dialogue systems**.  
+My research interests lie in **Artificial Intelligence (AI), Natural Language Processing (NLP), and Large Language Models (LLMs)**, with a particular focus on **efficient multilingual representation learning for low-resource languages, including machine translation**, as well as **lightweight pretraining and reliable dialogue systems**.  
 
 I have worked on several projects and competitions, including the development of data-driven models for **ESG credit scoring**, **chatbot dialogue systems with emotion analysis**, and **multilingual text analysis**.  
 
