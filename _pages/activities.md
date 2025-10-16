@@ -19,7 +19,7 @@ author_profile: true
 ### 2025
 - **National Finalist & Awardee**, 2025 FIN:NECT Challenge - Fintech Center Korea, KakaoBank (2025.08)
 - **Excellence Award (2nd Prize)**, 2025 Jeonbuk State Public Data Utilization Start-up Competition - Jeonbuk State, South Korea (2025.07)
-- **Finalist (Onsite Round)**, LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - LG AI Research (2025.02)
+- **Finalist (Onsite Round)**, LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - LG AI Research (2025.02 - 2025.04)
 <br/>
 
 ### 2024
