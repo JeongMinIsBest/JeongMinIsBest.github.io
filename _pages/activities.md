@@ -34,7 +34,7 @@ author_profile: true
 ### 2023
 - **Encouragement Prize**, 2023 English Essay Competition - Department of English Language and Literature, Jeonbuk National University (2023.12)
 - **Grand Prize**, 2023 Convergence Idea Contest - Department of English Language and Literature, Jeonbuk National University (2023.12)
-- **Top 11 Finalist**, 2023 KPMG Ideathon: From Ideas to Prototypes - KPMG Korea (2023.02)
+- **Top 11 Finalist**, 2023 KPMG Ideathon: From Ideas to Prototypes with NLP - KPMG Korea (2023.02)
 <br/>
 
 ### 2022
