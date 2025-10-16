@@ -4,8 +4,8 @@ excerpt: "AI-driven maternity hospital recommendation service addressing low bir
 collection: portfolio
 ---
 
-## 🏥 RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk
-*Team Project for 2025 Hackathon Discovering Artificial Intelligence Convergence Policy in Chungbuk | Jun 2025*
+## 🏥 RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk, Korea
+*Team Project for 2025 Hackathon Discovering Artificial Intelligence Convergence Policy in Chungbuk, Korea | Jun 2025*
 <br/>
 
 - Tackled the **low birth rate problem** and **lack of maternity hospital accessibility** in Chungbuk Province.  
