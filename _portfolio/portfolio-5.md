@@ -1,5 +1,5 @@
 ---
-title: "BlooM: AI-Based Financial Literacy Simulator"
+title: "🏦 BlooM: AI-Based Financial Literacy Simulator"
 excerpt: "Built an AI-powered simulator that integrates real-time data (weather & harvest) with financial modeling to train financial literacy. Focused on predictive modeling and volatility simulation.<br/><img src='/images/portfolio/bloom.png'>"
 collection: portfolio
 ---
