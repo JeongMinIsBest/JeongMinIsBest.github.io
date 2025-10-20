@@ -1,5 +1,5 @@
 ---
-title: "Lifestyle ESG Credit Scoring Model for Small Businesses"
+title: "🌱 Lifestyle ESG Credit Scoring Model for Small Businesses"
 excerpt: "Developed an alternative credit scoring model that integrates everyday ESG practices of small businesses, addressing the financial blind spots of micro-enterprises. Selected as a National Finalist & Awardee at the 2025 FIN:NECT Challenge.<br/><img src='/images/portfolio/esg_credit_model.png'>"
 collection: portfolio
 ---
