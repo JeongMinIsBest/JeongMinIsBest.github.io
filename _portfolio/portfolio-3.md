@@ -1,5 +1,5 @@
 ---
-title: "Rebellion of the Ugly: B-grade Agricultural Product Distribution Platform"
+title: "🍎 Rebellion of the Ugly: B-grade Agricultural Product Distribution Platform"
 excerpt: "Developed a sustainable distribution platform for B-grade (imperfect) agricultural products in Jeonbuk, reducing food waste and supporting local farmers. Awarded Excellence Prize at the 2025 Jeonbuk Public Data Startup Competition.<br/><img src='/images/portfolio/bgrade_farm.png'>"
 collection: portfolio
 ---
