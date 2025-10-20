@@ -1,5 +1,5 @@
 ---
-title: "Capstone Project: AI Emotional Support Service for the Socially Vulnerable"
+title: "💙 Capstone Project: AI Emotional Support Service for the Socially Vulnerable"
 excerpt: "Developed an AI-powered diary service that performs emotion classification and summarization on daily journals to support socially vulnerable groups. Integrated KoBERT and KoBART models for sentiment analysis and summarization, deployed via a mobile app prototype.<br/><img src='/images/portfolio/capstone.png'>"
 collection: portfolio
 ---
