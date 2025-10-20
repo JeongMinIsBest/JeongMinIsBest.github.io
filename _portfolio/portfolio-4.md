@@ -1,5 +1,5 @@
 ---
-title: "RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk"
+title: "🏥 RecomMomd: AI-based Maternity Hospital Matching System in Chungbuk"
 excerpt: "AI-driven maternity hospital recommendation service addressing low birth rate and medical accessibility issues in Chungbuk Province.<br/><img src='/images/portfolio/recommomd.png'>"
 collection: portfolio
 ---
