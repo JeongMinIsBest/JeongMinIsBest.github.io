@@ -1,5 +1,5 @@
 ---
-title: "Clustering Analysis of Solitary Death Risk among Single-Person Households in Seoul, Korea"
+title: "🏙️ Clustering Analysis of Solitary Death Risk among Single-Person Households in Seoul, Korea"
 excerpt: "Analyzed Seoul’s single-person household data to identify risk clusters related to solitary deaths using data visualization and unsupervised learning.<br/><img src='/images/portfolio/seoul_lonely.png'>"
 collection: portfolio
 ---
