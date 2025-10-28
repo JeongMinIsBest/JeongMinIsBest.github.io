@@ -81,6 +81,14 @@ My long-term goal is to:
 <br/>
 <br/>
 
+## 🖥️ Tech Stack
+- Programming Languages: Python, Java, JavaScript, C, Dart, C++, C#, HTML, CSS
+- Machine Learning & Data Science: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
+- Natural Language Processing: KoBERT, KoBART, Hugging Face Transformers
+- Frameworks & Tools: Jupyter Notebook, Google Colab, Git, React, Flutter, Next.js, Node.js
+<br/>
+<br/>
+
 ## 📄 Curriculum Vitae
 You can download my latest CV here:
 
@@ -89,7 +97,6 @@ You can download my latest CV here:
 <br/>
 
 ## 📷 Gallery
-
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center;">
   <img src="/images/gallery1.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
   <img src="/images/gallery2.jpg" style="width: 100%; max-width: 250px; border-radius: 10px;">
