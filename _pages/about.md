@@ -75,7 +75,11 @@ Looking ahead, my goal is to advance research in **efficient and trustworthy mul
 <br/>
 
 ## 🎯 Long-term Goals
-My long-term goal is to contribute to the advancement of natural language processing and large language models in ways that promote linguistic equity and global accessibility. I aim to push research in multilingual NLP, machine translation, and efficient model development, while building AI systems that meaningfully reduce language barriers and serve real communities. Ultimately, I hope to work at the intersection of academia and industry to create technologies that are both technically innovative and socially impactful.
+My long-term goal is to contribute to the advancement of natural language processing and large language models in ways that promote linguistic equity and global accessibility.
+  
+I aim to push research in multilingual NLP, machine translation, and efficient model development, while building AI systems that meaningfully reduce language barriers and serve real communities.
+  
+Ultimately, I hope to work at the intersection of academia and industry to create technologies that are both technically innovative and socially impactful.
   
 - Advance multilingual NLP research to better represent under-resourced languages
 - Improve model efficiency and scalability, enabling broader access and real-world deployment
