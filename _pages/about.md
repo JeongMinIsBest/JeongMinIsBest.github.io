@@ -18,9 +18,10 @@ I am an **AI Research Trainee at Aiffel Research 14th, Modulabs**. My work focus
 <br/>
 
 ## 🔬 Research Interests
-- Efficient multilingual representation learning for low-resource languages, including machine translation  
-- Lightweight pretraining and fine-tuning methods for large language models (LLMs)  
-- Enhancing reliability and factual consistency of dialogue systems for socially beneficial applications   
+- Multilingual & Low-Resource NLP (representation learning, MT)
+- Efficient & Lightweight Language Models (distillation, PEFT)
+- Reliable & Responsible Generative Systems (fact-grounded dialogue)
+- Vision-Language & Multimodal Reasoning for socially beneficial AI
 <br/>
 <br/>
 
