@@ -68,14 +68,20 @@ author_profile: true
 <br/>
 
 ## 📂 Research Themes  
-My research contributions align with three primary themes:
+My work centers on building language technologies that are efficient, reliable, and accessible—particularly for multilingual and low-resource environments. These research directions are reflected in four interconnected themes:
   
-1. **Efficient NLP and Large Language Models** — Developing and fine-tuning models for dialogue generation, classification, and multilingual tasks, with a focus on model compression, parameter-efficient adaptation, and deployment in low-resource environments.
+1. **Efficient NLP and Lightweight Language Models**
+I develop and fine-tune models for classification, dialogue generation, and multilingual tasks, with a focus on parameter-efficient adaptation, model compression, and scalable deployment. This includes experimenting with knowledge distillation and PEFT techniques to reduce model size while preserving performance.
   
-2. **AI for Social Impact and Responsible System**s — Applying machine learning to domains such as ESG-based credit scoring, sustainable finance, and public-facing AI services, demonstrating how data-driven systems can support fairness, accessibility, and real-world decision-making.
+2. **Multilingual and Low-Resource Natural Language Processing**
+Much of my research examines how representation learning and cross-lingual transfer can improve performance in languages with limited annotated data. This includes analyzing tokenization challenges, modeling morphologically rich languages, and designing systems that generalize across diverse linguistic structures.
   
-3. **Computational Humanities and Cross-disciplinary AI** — Bridging linguistics, NLP, and digital humanities through projects such as Shakespeare corpus analysis and language-driven cultural exploration, showing how computational approaches can extend traditional humanities research.
+3. **Reliability and Responsible Generative Systems**
+I explore methods for improving factual consistency, controllability, and safety in generative and dialogue systems. This direction connects technical model improvements with broader goals of fairness, interpretability, and responsible use of AI in real-world decision-making contexts.
   
-Collectively, these themes reflect my goal of building efficient, human-centered, and socially meaningful NLP systems.
+4. **Multimodal and Socially Impactful AI**
+Recently, I have extended my work to include vision-language and multimodal learning, investigating how perceptual grounding can enhance model understanding and support practical applications such as sustainable finance, public-facing AI services, and computational humanities research.
+  
+Collectively, these themes reflect my broader goal: **developing efficient and socially meaningful NLP systems that bridge human language, machine intelligence, and equitable access to technology.**
 <br/>
 <br/>
