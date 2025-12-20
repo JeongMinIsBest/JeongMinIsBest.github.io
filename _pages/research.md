@@ -7,6 +7,20 @@ author_profile: true
 
 ## 🔬 Research Projects
 
+### 🧬 Dual-Task Single-Cell Perturbation Modeling (MOA + Response) | Nov 2025 - Present
+- Developed a unified dual-task framework that jointly learns drug mechanisms-of-action (fₚ) and gene expression responses (fᵣ) from large-scale single-cell perturbation data.
+- Used DMSO-treated cells as a control baseline, computing pseudobulk ΔX signatures (drug − DMSO) to isolate true drug-induced transcriptional effects from basal expression and batch noise.
+- Represented perturbation effects using a Cell2Sentence-style Transformer, encoding gene-level expression changes as ordered token sequences selected by the magnitude of |ΔX|.
+- Initialized gene token embeddings with pretrained scGPT embeddings, injecting biological priors and improving generalization across genes, drugs, and cell-line contexts.
+- Integrated DrugBank and ChEMBL multi-label target annotations to supervise the target prediction module (fₚ), optimizing BCE-based multi-label learning alongside response modeling with a shared encoder and task-specific heads.
+- Conditioned response prediction on structured contextual signals (drug identity, predicted targets, and cell-line information), enabling mechanism-aware modeling of post-treatment expression states.
+- Evaluated robustness under out-of-distribution settings (unseen drugs and unseen cell lines), analyzing when mechanism-aware supervision improves prediction accuracy and interpretability.
+- Extended the framework toward a Filter-and-Rank inference pipeline to prioritize candidate drugs that reverse disease-associated expression signatures toward healthy (DMSO-like) states.
+- [🔗 GitHub Repository](In preparation)
+<br/>
+
+[🔗 GitHub Repository](In preparation)
+Extended the framework toward a Filter-and-Rank pipeline to identify candidate drugs that reverse disease-associated expression signatures toward healthy (DMSO-like) states.
 ### 🤗 Hugging Face Transformer Fine-tuning | Sep 2025  
 - Explored **transfer learning** techniques with Hugging Face Transformers to adapt pre-trained models for Korean NLP tasks.  
 - Fine-tuned **KoBERT, DistilBERT, and GPT-2** on custom Korean datasets, addressing both **emotion classification** and **dialogue generation**.  
@@ -26,7 +40,7 @@ author_profile: true
 - [📄 View Full Report (PDF)](/files/Width Matters Efficient Scaling of Compact BERT Models.pdf)  
 <br/>
 
-### 🤖 Classical Machine Learning and DL Fundamentals | Aug 2025
+### 🤖 Classical Machine Learning and Deep Learning Fundamentals | Aug 2025
 - Completed an introductory project to **build foundational skills in machine learning and deep learning**.  
 - Implemented core ML algorithms (**SVM, Random Forest, Logistic Regression**) on structured datasets, practicing feature engineering and model selection.  
 - Designed and trained **basic neural networks** using TensorFlow and PyTorch to compare performance with classical ML approaches.  
