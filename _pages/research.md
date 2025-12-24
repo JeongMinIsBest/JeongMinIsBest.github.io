@@ -10,13 +10,13 @@ author_profile: true
 ### 🧬 Dual-Task Single-Cell Perturbation Modeling (MOA + Response) | Nov 2025 - Present
 - Developed a unified dual-task framework that jointly learns drug mechanisms-of-action (fₚ) and gene expression responses (fᵣ) from large-scale single-cell perturbation data.
 - Used DMSO-treated cells as a control baseline, computing pseudobulk ΔX signatures (drug − DMSO) to isolate true drug-induced transcriptional effects from basal expression and batch noise.
-- Represented perturbation effects using a Cell2Sentence-style Transformer, encoding gene-level expression changes as ordered token sequences selected by the magnitude of |ΔX|.
+- Represented perturbation effects using a Cell2Sentence-style Transformer, encoding gene-level expression changes as ordered token sequences selected by the magnitude of \|ΔX|\.
 - Initialized gene token embeddings with pretrained scGPT embeddings, injecting biological priors and improving generalization across genes, drugs, and cell-line contexts.
 - Integrated DrugBank and ChEMBL multi-label target annotations to supervise the target prediction module (fₚ), optimizing BCE-based multi-label learning alongside response modeling with a shared encoder and task-specific heads.
 - Conditioned response prediction on structured contextual signals (drug identity, predicted targets, and cell-line information), enabling mechanism-aware modeling of post-treatment expression states.
 - Evaluated robustness under out-of-distribution settings (unseen drugs and unseen cell lines), analyzing when mechanism-aware supervision improves prediction accuracy and interpretability.
 - Extended the framework toward a Filter-and-Rank inference pipeline to prioritize candidate drugs that reverse disease-associated expression signatures toward healthy (DMSO-like) states.
-- (🔗 GitHub Repository is now in preparation)
+- 🔗 GitHub Repository is now in preparation
 <br/>
 
 ### 🤗 Hugging Face Transformer Fine-tuning | Sep 2025  
