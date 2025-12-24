@@ -16,11 +16,9 @@ author_profile: true
 - Conditioned response prediction on structured contextual signals (drug identity, predicted targets, and cell-line information), enabling mechanism-aware modeling of post-treatment expression states.
 - Evaluated robustness under out-of-distribution settings (unseen drugs and unseen cell lines), analyzing when mechanism-aware supervision improves prediction accuracy and interpretability.
 - Extended the framework toward a Filter-and-Rank inference pipeline to prioritize candidate drugs that reverse disease-associated expression signatures toward healthy (DMSO-like) states.
-- [🔗 GitHub Repository](In preparation)
+- (🔗 GitHub Repository is now in preparation)
 <br/>
 
-[🔗 GitHub Repository](In preparation)
-Extended the framework toward a Filter-and-Rank pipeline to identify candidate drugs that reverse disease-associated expression signatures toward healthy (DMSO-like) states.
 ### 🤗 Hugging Face Transformer Fine-tuning | Sep 2025  
 - Explored **transfer learning** techniques with Hugging Face Transformers to adapt pre-trained models for Korean NLP tasks.  
 - Fine-tuned **KoBERT, DistilBERT, and GPT-2** on custom Korean datasets, addressing both **emotion classification** and **dialogue generation**.  
